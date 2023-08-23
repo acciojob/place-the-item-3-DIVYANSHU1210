@@ -1,2 +1,18 @@
+.holder{
+	display:flex;
+	justify-content:space-around;
+	flex-wrap:wrap;
+}
 
+.box1{
+	height:50px;
+	width:50px;
+	background-color:red;
+}
+
+.box2{
+	height:50px;
+	width:50px;
+	background-color:blue;
+}
 /* Your CSS Code here. */
